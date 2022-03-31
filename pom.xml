@@ -21,7 +21,7 @@
         </plugins>
     </build>
     <properties>
-        <spring.verson>5.2.5.RELEASE</spring.verson>
+        <spring.verson>5.3.18</spring.verson>
         <spring.cloud.version>2.2.2.RELEASE</spring.cloud.version>
     </properties>
     <dependencies>
